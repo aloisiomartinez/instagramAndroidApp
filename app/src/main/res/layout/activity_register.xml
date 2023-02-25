@@ -10,8 +10,8 @@
     <fragment
         android:id="@+id/register_fragment"
         android:layout_width="match_parent"
-        android:name="co.tiagoaguiar.course.instagram.register.view.RegisterNamePasswordFragment"
-        tools:layout="@layout/fragment_register_name_password"
+        android:name="co.tiagoaguiar.course.instagram.register.view.RegisterWelcomeFragment"
+        tools:layout="@layout/fragment_register_welcome"
         android:layout_height="match_parent" />
 
 </LinearLayout>
